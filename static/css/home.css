@@ -16,3 +16,7 @@ div.img2{
 	width:666px;
 	height:1000px;
 }
+
+img.resize{
+	max-width:100%;
+}
